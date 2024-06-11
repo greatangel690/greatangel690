@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there
 
-<!--
-**greatangel690/greatangel690** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##This is Great Angel
 
-Here are some ideas to get you started:
+##I am a Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on improving my data analytics and science skills
+- 🌱 I’m currently learning data analytics
+- 👯 I’m looking to collaborate with individuals, organization and companies
+- 🤔 I’m looking for help with improving my analytical skills
+- 💬 Ask me about data
+- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/angel-great-425009313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+- 😄 Pronouns: she
+- ⚡ Fun fact: I can do anything when I am determined
 -->
