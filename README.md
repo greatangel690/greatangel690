@@ -1,8 +1,8 @@
 ### Hi there
 
-##This is Great Angel
+## This is Great Angel
 
-##I am a Data Analyst
+## I am a Data Analyst
 
 - 🔭 I’m currently working on improving my data analytics and science skills
 - 🌱 I’m currently learning data analytics
