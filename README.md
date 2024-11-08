@@ -2,8 +2,9 @@
 
 ## This is Great Angel
 
-## I am a Data Analyst
+## I am a Graphic designer and Data Analyst
 
+- I'm currently a graphic designer
 - 🔭 I’m currently working on improving my data analytics and science skills
 - 🌱 I’m currently learning data analytics
 - 👯 I’m looking to collaborate with individuals, organization and companies
