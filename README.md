@@ -1,15 +1,12 @@
-### Hi there
+###👋 Hi there!
 
-## This is Great Angel
+##This is Great Angel
+##I’m a creative and analytical professional with a strong interest in problem-solving and continuous learning.
 
-## I am a Graphic designer and Data Analyst
-
-- I'm currently a graphic designer
-- 🔭 I’m currently working on improving my data analytics and science skills
-- 🌱 I’m currently learning data analytics
-- 👯 I’m looking to collaborate with individuals, organization and companies
-- 🤔 I’m looking for help with improving my analytical skills
-- 💬 Ask me about data
+-💼 Currently Preparing for the AWS Certified Solutions Architect – Associate certification
+-🔭 Actively improving my analytical and problem-solving skills
+-👯 Open to collaborating with individuals, organizations, and companies on meaningful projects
+-🤔 Always looking for guidance, feedback, and resources to strengthen my analytical thinking
 - 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/angel-great-425009313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 - 😄 Pronouns: she
 - ⚡ Fun fact: I can do anything when I am determined
